@@ -23,5 +23,5 @@ async function logged() {
 
 	await wait(1500);
 
- 	window.location.href = "https://LuminousVibeUnknown2763.github.io/LuminousVibe/";
+ 	window.location.href = "https://LuminousVibeUnknown2763.github.io/LV/";
 }
